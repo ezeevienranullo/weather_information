@@ -1,0 +1,1 @@
+const WEATHER_APPID = '195c9f1716411804acae47bda352cbbb';
